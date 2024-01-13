@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-'''dd'''
+'''Typed function'''
 
 
 from typing import Callable
