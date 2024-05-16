@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
 Stats about Nginx logs stored in MongoDB
+author: Oscar J Alfaro M
 """
 from pymongo import MongoClient
 
